@@ -4,8 +4,8 @@
 - Windows 10 64 bits
 - OS Bulid 14393.0 or later (Settings > System > About)
 - **Linux Subsystem must be enabled**. You can do that manually, or following these steps:
- - Execute PreInstall.bat as administrator
- - Reboot
+  - Execute PreInstall.bat as administrator
+  - Reboot
 
 ## Installation
 1. Execute Install.bat
