@@ -1,0 +1,6 @@
+Modify file /etc/ssh/sshd_config:
+Port 22 (22 is in use on Windows10), recomended 2222
+PasswordAuthentication yes
+ListenAddress 0.0.0.0
+UsePrivilegeSeparation no
+StrictModes no (or perms of authorized_keys file must be 600)
