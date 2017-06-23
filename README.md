@@ -14,7 +14,7 @@
 
 ## Configuration
 
-First of all, you need to add your ElkarBackup server's SSH public key. You can download it from the ElkarBackup web GUI to your Windows computer (for instance, *C:\Publickey.pub*). Let's enable the SSH logging with that publickey:
+First of all, you need to add your ElkarBackup server's SSH public key. You can download it from the ElkarBackup web GUI to your Windows computer (for instance, *C:\Publickey.pub*). Let's enable the SSH login with that publickey:
 
 Open a Windows console window (*cmd*) and run the following commands:
 
